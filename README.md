@@ -719,58 +719,7 @@ Ensemble_Kernel_Assignment/
 ├── Telco-Customer-Churn.csv
 └── README.md
 ```
-PERSON 3
-Ensemble & Kernel Methods
-│
-├── Dataset & Setup
-│   ├── Load CSV
-│   ├── Inspect data
-│   ├── Missing values
-│   ├── Separate X/y
-│   ├── Encode target
-│   ├── Train/test split
-│   └── Preprocessing
-│
-├── PART A — Concepts
-│   ├── A1 Calibration
-│   ├── A2 Class imbalance
-│   ├── A3 Shrinkage
-│   ├── A4 Boosting vs Random Forest
-│   └── A5 Kernel trick
-│
-├── PART B — Coding
-│   │
-│   ├── B1 XGBoost tuning
-│   │   ├── learning_rate
-│   │   ├── n_estimators
-│   │   ├── max_depth
-│   │   └── RandomizedSearchCV
-│   │
-│   ├── B2 SVM
-│   │   ├── Linear
-│   │   └── RBF
-│   │
-│   ├── B3 Early stopping
-│   │   ├── validation split
-│   │   ├── 1000 max trees
-│   │   └── stop when validation stops improving
-│   │
-│   └── B4 Comparison
-│       ├── XGBoost
-│       ├── SVM
-│       ├── training time
-│       └── inference time
-│
-└── PART C — Mini Project
-    ├── Final hyperparameters
-    ├── F1
-    ├── ROC-AUC
-    ├── PR-AUC
-    ├── Calibration curve
-    ├── Calibration table
-    ├── Training time
-    ├── Inference time
-    └── Production analysis
+
 ---
 
 # Conclusion
